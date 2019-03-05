@@ -17,7 +17,7 @@ x <- 5
 y <- -2.3
 z <- c(1.1,2,0,-4.3,9,-12)
 
-#Create a funciton that returns the absolute value of a vraible inputted
+#Create a funciton that returns the absolute value of a variable inputted
 myAbs <- function(x){
 if (x < 0) {
   x <- x * -1
