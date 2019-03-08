@@ -1,0 +1,51 @@
+"time","abundance"
+function (x, ...) 
+UseMethod("time"),3
+function (x, ...) 
+UseMethod("time"),7.69587
+function (x, ...) 
+UseMethod("time"),19.6854004283607
+function (x, ...) 
+UseMethod("time"),49.9830805665478
+function (x, ...) 
+UseMethod("time"),124.53417295764
+function (x, ...) 
+UseMethod("time"),295.704070933373
+function (x, ...) 
+UseMethod("time"),622.677253119256
+function (x, ...) 
+UseMethod("time"),991.549210879625
+function (x, ...) 
+UseMethod("time"),1004.70482693491
+function (x, ...) 
+UseMethod("time"),997.283496074619
+function (x, ...) 
+UseMethod("time"),1001.53682158955
+function (x, ...) 
+UseMethod("time"),999.120303635616
+function (x, ...) 
+UseMethod("time"),1000.50021195856
+function (x, ...) 
+UseMethod("time"),999.714486350775
+function (x, ...) 
+UseMethod("time"),1000.16261479673
+function (x, ...) 
+UseMethod("time"),999.907268049456
+function (x, ...) 
+UseMethod("time"),1000.05284371104
+function (x, ...) 
+UseMethod("time"),999.969874700547
+function (x, ...) 
+UseMethod("time"),1000.01716999586
+function (x, ...) 
+UseMethod("time"),999.99021263951
+function (x, ...) 
+UseMethod("time"),1000.00557864509
+function (x, ...) 
+UseMethod("time"),999.996820123441
+function (x, ...) 
+UseMethod("time"),1000.00181251376
+function (x, ...) 
+UseMethod("time"),999.998966861997
+function (x, ...) 
+UseMethod("time"),1000.00058888699
