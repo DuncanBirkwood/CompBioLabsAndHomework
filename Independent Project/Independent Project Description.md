@@ -7,7 +7,7 @@
 
 Due to human activity, many species are under threat of extinction.  Currently, it is very difficult to predict the risk of extinction for many threatened species.  Species characteristics are useful in predicting the response to human-driven change and may also help predict the likelihood of extinction.  Historical data on species losses can help to identify specific traits that influence threatened species to local extinction.  My specific driving question for this project is what are the common factors among plant species that result in local extinctions?
 
-#### Summary of Data to be Analyzed
+### Summary of Data to be Analyzed
 ##### Goal of the Study and Methods
 The goal of this study was to look at how specific species characteristics affect the local extinction risk for many plant species.  To do this the study looked at a variety of factors including the plant’s community, life history, growth form, rarity, etc.  To study such data the researchers used historical botanical data from Kalamazoo County Michigan to look at if species characteristics (community association, native status, growth form, life history, range edge, habitat specialization, N-fixation, photosynthetic pathway, and rarity) or their phylogenetic relatedness can help to explain local species loss at the county level.
 ##### Format of Data
