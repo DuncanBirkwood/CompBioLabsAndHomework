@@ -40,7 +40,7 @@ pNative <- ggplot(Kalamazoo) + geom_bar( aes(x = native, fill = as.factor(status
 pRarity <- ggplot(Kalamazoo) + geom_bar(aes( x = raritycategory, fill=as.factor(status)), position="fill") + scale_fill_discrete(name="Extinction\nStatus", labels=c("Extinct","Alive"))+ scale_y_continuous(labels=scales::percent) + ylab("Percentage") + theme(axis.text.x= element_text(angle=90))
 
 #Utilizing the cowplots package and the function plot_grid, create a plot grid that combines all ggplot bar graphs into one single graphic
-cowplots <- plot_grid(pCommunity,pRarity, pGrowthForm, pLifeHistory, pNative)
+plot_grid(pCommunity,pRarity, pGrowthForm, pLifeHistory, pNative)
 
 
 
